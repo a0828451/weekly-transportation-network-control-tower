@@ -1,4 +1,6 @@
 # Weekly Transportation Network Control Tower
+## Live Demo
+[Open the interactive dashboard](https://weekly-network-control-tower.streamlit.app)
 
 A Streamlit portfolio project for weekly outbound transportation network planning. It demonstrates SQL-defined KPI governance, operational root cause analysis, and multi-action lane volume reallocation decisions.
 
