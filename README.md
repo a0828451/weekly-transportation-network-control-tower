@@ -11,7 +11,7 @@ The dashboard is designed around a Supply Chain Manager workflow:
 4. Surface residual risks that still require mitigation.
    
 ## Live Demo
-[Open the interactive dashboard](https://weekly-network-control-tower.streamlit.app)
+[Open the interactive dashboard](https://weekly-transportation-network-control-tower.streamlit.app/)
 
 ## Features
 
